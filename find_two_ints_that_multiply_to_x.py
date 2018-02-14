@@ -4,7 +4,7 @@
 #  naive solution
 def find_two_ints(input_array, target_value):
   for n in input_array:
-    for x in input_array[1::]:
+    for x in input_array[1:]:
       if x*n==target_value:
         return x,n
 
