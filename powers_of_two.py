@@ -15,7 +15,7 @@ def powers(n):
 powers(50)
 ''' Explanation of the recursion:
 
-When the recursion happens, it's going to stop the execuition
+When the recursion happens, it's going to stop the execution
 of the current stack frame at that point.
 Then it's going to keep going down to the base case of n equals 1
 
