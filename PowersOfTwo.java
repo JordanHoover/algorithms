@@ -1,3 +1,6 @@
+// Same as Python version of this problem,
+// only rewritten in Java
+
 class PowersofTwo {
   public static void main(String[] args) {
     powersOf2(40);
